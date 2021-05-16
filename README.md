@@ -1,1 +1,1 @@
-# Content-Baes-Movie-Recommender-System-with-Sentimental-Analysis-Project-using-AJAX
+# Content-Based-Movie-Recommender-System-with-Sentimental-Analysis-Project-using-AJAX
