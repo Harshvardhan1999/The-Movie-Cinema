@@ -16,12 +16,14 @@ Check out the live demo: https://the-movie-cinema.herokuapp.com/
 ## Note
 
 Don't worry if the movie that you are looking for is not auto-suggested. Just type the movie name and click on "enter". You will be good to go even though if you made some typo errors.
+
 Source code: https://github.com/Harshvardhan1999/The-Movie-Cinema/tree/master/Movie%20Recommendation%20System
 
 ## 'Invalid Request' Error
 
 If you're getting invalid request error in your application, kindly note that there is nothing wrong with that error. There must be some other reason for the invalid request. There are several ways to track the issue.
 1. If you make a request without the API key for the first time, your browser caches the request in the browser memory and throws an Invalid request error. Check whether you've replaced the API key in both the lines in the recommend.js file. Even though you replaced the API key for the next subsequent requests, your browser will always make use of the request from the browser cache.  If you did and still getting an invalid error, press 'ctrl+f5' (which clears the content of the browser cache) and try making a request again.
+ 
 2. If that doesn't help you out, check the browser console. If you're getting a server-side error (error code should be greater than or equal to 500), check your command prompt (Windows) or terminal (Linux and Mac). That should define the cause.
 
 ## How to get the API key?
