@@ -16,7 +16,7 @@ Check out the live demo: https://the-movie-cinema.herokuapp.com/
 ## Note
 
 Don't worry if the movie that you are looking for is not auto-suggested. Just type the movie name and click on "enter". You will be good to go even though if you made some typo errors.
-Source code: https://github.com/Harshvardhan1999/The-Movie-Cinema
+Source code: https://github.com/Harshvardhan1999/The-Movie-Cinema/tree/master/Movie%20Recommendation%20System
 
 ## 'Invalid Request' Error
 
